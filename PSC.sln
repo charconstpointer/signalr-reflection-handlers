@@ -1,7 +1,5 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pub", "Pub\Pub.csproj", "{F0F421F1-4D31-4029-AF8E-A3991056972B}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sub", "Sub\Sub.csproj", "{2F0B1C96-E999-4403-A0BA-8A7A92AF0993}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Masta", "Masta\Masta.csproj", "{BA966835-2C2C-47F7-A77B-FDD30DB0E604}"

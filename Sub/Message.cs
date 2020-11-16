@@ -1,4 +1,4 @@
-﻿namespace Pub
+﻿namespace Sub
 {
     public interface IMessage
     {

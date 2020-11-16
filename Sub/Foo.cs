@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Pub
+namespace Sub
 {
     public class Foo : IMessage
     {
